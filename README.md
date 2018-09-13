@@ -1,2 +1,2 @@
 # Agricultural-Automations
-A repository deticated to agriculural automations &amp; hydroponics
+A repository deticated to agricultural automations &amp; hydroponics
